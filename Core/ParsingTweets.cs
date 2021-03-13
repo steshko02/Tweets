@@ -9,6 +9,7 @@ namespace TwitterTrands.Core
 {
     class ParsingTweets
     {
+        static string ff;
         List<Tweet> tweets = new List<Tweet>();
     }
 }

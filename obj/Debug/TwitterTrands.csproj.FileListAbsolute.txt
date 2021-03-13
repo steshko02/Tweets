@@ -1,0 +1,8 @@
+D:\учеба\Laba2\TwitterTrands\TwitterTrands\bin\Debug\TwitterTrands.exe.config
+D:\учеба\Laba2\TwitterTrands\TwitterTrands\bin\Debug\TwitterTrands.exe
+D:\учеба\Laba2\TwitterTrands\TwitterTrands\bin\Debug\TwitterTrands.pdb
+D:\учеба\Laba2\TwitterTrands\TwitterTrands\obj\Debug\TwitterTrands.csprojAssemblyReference.cache
+D:\учеба\Laba2\TwitterTrands\TwitterTrands\obj\Debug\TwitterTrands.Properties.Resources.resources
+D:\учеба\Laba2\TwitterTrands\TwitterTrands\obj\Debug\TwitterTrands.csproj.GenerateResource.cache
+D:\учеба\Laba2\TwitterTrands\TwitterTrands\obj\Debug\TwitterTrands.exe
+D:\учеба\Laba2\TwitterTrands\TwitterTrands\obj\Debug\TwitterTrands.pdb
