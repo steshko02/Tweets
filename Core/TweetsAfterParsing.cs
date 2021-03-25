@@ -7,9 +7,8 @@ using TwitterTrands.Content;
 
 namespace TwitterTrands.Core
 {
-    class ParsingTweets
+    class TweetsAfterParsing
     {
-        static string ff;
         List<Tweet> tweets = new List<Tweet>();
     }
 }
